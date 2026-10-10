@@ -1,0 +1,22 @@
+# Compiled binary
+firstgoproject
+
+# Go workspace / module cache (if ever present locally)
+go.work
+
+# pprof output and heap dumps
+*.prof
+*.dump
+*.out
+grf.out
+
+# Visual graph output
+*.png
+*.svg
+
+# Editor / OS files
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
